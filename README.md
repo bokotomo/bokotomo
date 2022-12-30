@@ -11,4 +11,5 @@
 
 ### SYSTEM SAMPLE
 
-[Golang: grpc](https://github.com/bokotomo/go-grpc-sample)
+[Golang: grpc](https://github.com/bokotomo/go-grpc-sample)　　
+[Ethereum: Solidity](https://github.com/bokotomo/solidity-sample)
