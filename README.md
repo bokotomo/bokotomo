@@ -4,7 +4,7 @@
 | ------- | -------------------------------------------------------------------------------------------------------------- |
 | API     | [Rust: Actix-web](https://github.com/bokotomo/rust-api-sample)                                                 |
 | API     | [JS-TS: Nest.js](https://github.com/bokotomo/nest-sample)                                                      |
-| API     | [Golang: Gin](https://github.com/bokotomo/gin-sample)                                                          |
+| API     | [Golang: Gin,CleanArchitecture](https://github.com/bokotomo/gin-sample)                                        |
 | API     | [PHP: Lumen](https://github.com/bokotomo/lumen-sample)                                                         |
 | FRONT   | [React-TS: Blog, Gatsby,HeadlessCMS](https://github.com/TocoBird/blog/tree/main/front)                         |
 | FRONT   | [React-TS: TicTacToe Library](https://github.com/bokotomo/tic-tac-toe-react)                                   |
